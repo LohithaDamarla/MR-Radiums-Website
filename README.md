@@ -72,5 +72,3 @@ Lohitha Damarla
 
 GitHub: @LohithaDamarla
 
-Portfolio: [your-portfolio-link]
-
